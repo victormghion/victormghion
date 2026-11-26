@@ -1,18 +1,85 @@
 # 👨‍💻 Victor Marques Ghion
 
- QA Automation Engineer
+Victor Marques Ghion
 
-Atuo como **Analista de Testes (QA) com foco em automação**, garantindo a qualidade, confiabilidade e performance de aplicações através de testes bem estruturados e pipelines de integração contínua.
+Software Engineering | Applied AI | Cloud Computing | Automation
 
-Tenho experiência na criação e manutenção de **testes automatizados utilizando Robot Framework, Python e JavaScript**, além de atuação com testes de API, testes funcionais, integração e testes de performance.
+About Me
 
-Trabalho com ferramentas essenciais do ecossistema de QA como **Selenium, Postman, JMeter e Jenkins**, aplicando boas práticas de qualidade em ambientes ágeis e pipelines de **CI/CD**. Também possuo conhecimento em **AWS** e validação de dados utilizando **SQL**, garantindo a consistência das aplicações ponta a ponta.
+Technology professional with a background in software quality engineering, automation, API testing, and continuous integration.
 
-Meu objetivo é contribuir para entregas mais seguras, eficientes e com alto padrão de qualidade.
+My current focus is expanding my expertise in software engineering, artificial intelligence, backend development, cloud architecture, and distributed systems.
 
+I am passionate about building reliable, scalable, secure, and intelligent software solutions.
+
+Technical Skills
+
+Domain
+
+Technologies
+
+Programming
+
+Python, Java, JavaScript, TypeScript
+
+Backend & APIs
+
+Node.js, REST APIs, Fastify
+
+Databases
+
+SQL, PostgreSQL, Oracle
+
+Automation
+
+Cypress, Selenium, Robot Framework, RPA
+
+CI/CD & Version Control
+
+Jenkins, Git, GitHub, Bitbucket
+
+Performance & Observability
+
+K6, JMeter, Mixpanel, OpenSearch
+
+Cloud Computing
+
+AWS, Oracle Cloud, Google Cloud — currently studying
+
+Artificial Intelligence
+
+LLMs, AI Agents, Generative AI — currently developing projects
+
+Current Focus
+
+Applied Artificial Intelligence and AI Agents
+
+Backend and Software Engineering
+
+Cloud Architecture and Infrastructure
+
+DevOps and CI/CD
+
+Machine Learning and MLOps
+
+System Design and Distributed Systems
+
+Software Security and Reliability
+
+Professional Development
+
+Currently preparing for industry-recognized certifications and expanding my technical knowledge through hands-on projects, official documentation, and professional training.
+
+Languages
+
+Portuguese — Native
+
+English — Fluent
+
+Spanish — Advanced
 ---
 
-### 🤖 Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <img 
     align="left" 
