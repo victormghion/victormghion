@@ -1,76 +1,23 @@
 # 👨‍💻 Victor Marques Ghion
 
-Victor Marques Ghion
+QA Automation Engineer | Software Engineering | Applied AI & Cloud Computing
 
-Software Engineering | Applied AI | Cloud Computing | Automation
+Technology professional with experience in software engineering, test automation, REST APIs, and CI/CD, focused on building reliable, scalable, and secure software solutions.
 
-About Me
+Experienced in Python, Java, JavaScript, TypeScript, Cypress, Selenium, and Robot Framework, including web and desktop automation, backend testing, database validation, and performance testing.
 
-Technology professional with a background in software quality engineering, automation, API testing, and continuous integration.
-
+Currently expanding my expertise in Backend Engineering, Artificial Intelligence, Cloud Computing, DevOps, and System Design through hands-on projects and professional training.
 My current focus is expanding my expertise in software engineering, artificial intelligence, backend development, cloud architecture, and distributed systems.
 
-I am passionate about building reliable, scalable, secure, and intelligent software solutions.
-
+Passionate about technology, continuous learning, and solving complex engineering challenges.
 Technical Skills
 
-Domain
-
+Languages: Portuguese (Native) | English (Fluent) | Spanish (Advanced)
 Technologies
 
-Programming
+🛠 Technologies & Tools
+Python Java JavaScript TypeScript Cypress Selenium Robot Framework Postman SQL Node.js Jenkins Git AWS K6 JMeter
 
-Python, Java, JavaScript, TypeScript
-
-Backend & APIs
-
-Node.js, REST APIs, Fastify
-
-Databases
-
-SQL, PostgreSQL, Oracle
-
-Automation
-
-Cypress, Selenium, Robot Framework, RPA
-
-CI/CD & Version Control
-
-Jenkins, Git, GitHub, Bitbucket
-
-Performance & Observability
-
-K6, JMeter, Mixpanel, OpenSearch
-
-Cloud Computing
-
-AWS, Oracle Cloud, Google Cloud — currently studying
-
-Artificial Intelligence
-
-LLMs, AI Agents, Generative AI — currently developing projects
-
-Current Focus
-
-Applied Artificial Intelligence and AI Agents
-
-Backend and Software Engineering
-
-Cloud Architecture and Infrastructure
-
-DevOps and CI/CD
-
-Machine Learning and MLOps
-
-System Design and Distributed Systems
-
-Software Security and Reliability
-
-Professional Development
-
-Currently preparing for industry-recognized certifications and expanding my technical knowledge through hands-on projects, official documentation, and professional training.
-
-Languages
 
 Portuguese — Native
 
